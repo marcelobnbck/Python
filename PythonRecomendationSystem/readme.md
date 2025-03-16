@@ -13,7 +13,7 @@ To run this application locally, will be necessary install some dependecies:
   ```
 
 ## Usage
-To use the system, follow these steps:
+To use the system, run this command:
 
 **Run the application:**
   ```bash
