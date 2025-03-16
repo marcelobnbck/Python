@@ -7,7 +7,6 @@ The code implements a hybrid recommendation system, combining popularity and con
 ## Setup
 To run this application locally, follow these steps:
 
-Install the dependencies:
 **Install the dependencies:**
   ```bash
   pip install -r requirements.txt
